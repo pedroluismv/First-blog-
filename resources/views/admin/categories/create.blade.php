@@ -3,7 +3,7 @@
 @section('title', 'Blog autoadministrable')
 
 @section('content_header')
-    <h1>Crear Categoria</h1>
+    <h1>Crear una Categoria</h1>
 @stop
 
 @section('content')
